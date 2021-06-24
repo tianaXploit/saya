@@ -11,6 +11,7 @@ Hi, I am a cheerful person, and I am very ambitious in achieving my dream to bec
 ### Get in Touch 🔎
 - [<img alt="tianaXploit Instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> **Follow Me**](https://instagram.com/tianacode)<br />
 - [<img alt="tianaXploit Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> **Add friend**](https://www.facebook.com/profile.php?id=100010708354070)<br />
+- [<img alt="tianaXploit Telegram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> **chat Me**](https://telegram.com/t.me/apeyapoy)<br />
 <!-- Mau nyontek yaaaa? Awokawok dasar anjing ya kamu -->
 
 ----------
