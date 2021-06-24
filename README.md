@@ -1,9 +1,9 @@
-# Welcome gays, [tianaXploit](http://tianaXploit.net) here 🙌
+# Welcome mek, [tianaXploit](http://tianaXploit.net) here 🙌
 
 ![tianaXploit](https://komarev.com/ghpvc/?username=tianaXploit&label=Views&color=blue&style=plastic)
 [![GitHub tianaXploit](https://img.shields.io/github/followers/tianaXploit?label=follow&style=social)](https://github.com/tianaXploit)
 
-Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam meraih cita-cita untuk menjadi Hokage.
+Hi, I am a cheerful person, and I am very ambitious in achieving my dream to become a TNI / architect / successful entrepreneur / programmer / president of Indonesia:v
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianaXploit&theme=light&hide_langs_below=1" />](https://github.com/tianaXploit)
 <!-- Buset liat raw, pasti bang jago nih -->
@@ -16,5 +16,5 @@ Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam 
 ----------
 
 <div align="center">
-    <h3>Aku noob dan aku bangga 😈</h3>
+    <h3>I'm a noob and I'm proud 😈</h3>
 </div>
