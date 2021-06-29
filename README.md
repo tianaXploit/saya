@@ -3,7 +3,7 @@
 ![tianaXploit](https://komarev.com/ghpvc/?username=tianaXploit&label=Views&color=blue&style=plastic)
 [![GitHub tianaXploit](https://img.shields.io/github/followers/tianaXploit?label=follow&style=social)](https://github.com/tianaXploit)
 
-Hi, I am a cheerful person, and I am very ambitious in achieving my dream to become a TNI / architect / successful entrepreneur / programmer / president of Indonesia:v
+Hi, I am a cheerful person, and I am very ambitious in achieving my dream to become a president of Indonesia:v
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianaXploit&theme=light&hide_langs_below=1" />](https://github.com/tianaXploit)
 <!-- Buset liat raw, pasti bang jago nih -->
