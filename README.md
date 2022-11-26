@@ -17,5 +17,5 @@ Hanya untuk bersenang-senang
 ----------
 
 <div align="center">
-    <h3>anjg😈</h3>
+    <h3>😈</h3>
 </div>
